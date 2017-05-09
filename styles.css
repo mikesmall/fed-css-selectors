@@ -1,19 +1,19 @@
 
-  html {
-    font-size: 16px;
-  }
+html {
+  font-size: 16px;
+}
 
-  h1 {
-    font-family: Helvetica, Arial, sans-serif;
-  }
+h1 {
+  font-family: Helvetica, Arial, sans-serif;
+}
 
-  h2 {
-    font-family: Verdana, serif;
-  }
+h2 {
+  font-family: Verdana, serif;
+}
 
-  header {
-    border-bottom: 8px solid forestgreen;
-  }
+header {
+  border-bottom: 8px solid forestgreen;
+}
 
 .class-list {
   list-style-type: square;
@@ -60,6 +60,3 @@ ol li a:hover {
 ol li a:active {
   background-color: red;
 }
-
-/* Move your styles here when you're ready to clean up your HTML file */
-/* Don't forget to link to this file in your HTML, otherwise your styles won't show up! */
